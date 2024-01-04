@@ -1,3 +1,3 @@
-# sy2324
+# ST23-24
 software and app design<br>
  <b>1/4/24<b> Inital setup
